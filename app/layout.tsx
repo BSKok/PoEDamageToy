@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hello World",
-  description: "A minimal Next.js app hosted on Vercel",
+  title: "PoE2 Armour Calculator",
+  description: "Armour and effective damage reduction calculator for Path of Exile 2",
 };
 
 export default function RootLayout({
